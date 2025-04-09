@@ -17,8 +17,7 @@
 - Container: A wrapper for organizing the layout.
 ## Demo
 
-![react](https://github.com/user-attachments/assets/fb9a0dd1-d6d7-4c99-89af-59a7722eb0f4)
-
+![react](https://github.com/user-attachments/assets/7aa8ea29-4ce1-4874-9940-96da23ee1919)
 
 # Getting Started with Create React App
 
